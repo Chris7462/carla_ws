@@ -1,0 +1,39 @@
+[submodule "src/perception/fcn_segmentation"]
+	path = src/perception/fcn_segmentation
+	url = https://github.com/Chris7462/fcn_segmentation.git
+[submodule "src/perception/fcn_trt_backend"]
+	path = src/perception/fcn_trt_backend
+	url = https://github.com/Chris7462/fcn_trt_backend.git
+[submodule "src/perception/fcos_object_detection"]
+	path = src/perception/fcos_object_detection
+	url = https://github.com/Chris7462/fcos_object_detection.git
+[submodule "src/perception/fcos_trt_backend"]
+	path = src/perception/fcos_trt_backend
+	url = https://github.com/Chris7462/fcos_trt_backend.git
+[submodule "src/perception/scnn_torch"]
+	path = src/perception/scnn_torch
+	url = https://github.com/Chris7462/scnn_torch.git
+[submodule "src/perception/scnn_trt_backend"]
+	path = src/perception/scnn_trt_backend
+	url = https://github.com/Chris7462/scnn_trt_backend.git
+[submodule "src/perception/scnn_lane_detection"]
+	path = src/perception/scnn_lane_detection
+	url = https://github.com/Chris7462/scnn_lane_detection.git
+[submodule "src/perception/sort_tracker"]
+	path = src/perception/sort_tracker
+	url = https://github.com/Chris7462/sort_tracker.git
+[submodule "src/perception/sort_backend"]
+	path = src/perception/sort_backend
+	url = https://github.com/Chris7462/sort_backend.git
+[submodule "src/perception/rf_detr_detection"]
+	path = src/perception/rf_detr_detection
+	url = https://github.com/Chris7462/rf_detr_detection.git
+[submodule "src/perception/rf_detr_trt_backend"]
+	path = src/perception/rf_detr_trt_backend
+	url = https://github.com/Chris7462/rf_detr_trt_backend.git
+[submodule "src/perception/yolo_object_detection"]
+	path = src/perception/yolo_object_detection
+	url = https://github.com/Chris7462/yolo_object_detection.git
+[submodule "src/perception/yolo_inference"]
+	path = src/perception/yolo_inference
+	url = https://github.com/Chris7462/yolo_inference.git
