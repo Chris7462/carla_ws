@@ -37,3 +37,27 @@
 [submodule "src/perception/yolo_inference"]
 	path = src/perception/yolo_inference
 	url = https://github.com/Chris7462/yolo_inference.git
+[submodule "src/localization/floam"]
+	path = src/localization/floam
+	url = https://github.com/Chris7462/floam.git
+[submodule "src/localization/floam_core"]
+	path = src/localization/floam_core
+	url = https://github.com/Chris7462/floam_core.git
+[submodule "src/localization/mad_icp"]
+	path = src/localization/mad_icp
+	url = https://github.com/Chris7462/mad_icp.git
+[submodule "src/localization/mad_icp_core"]
+	path = src/localization/mad_icp_core
+	url = https://github.com/Chris7462/mad_icp_core.git
+[submodule "src/utilities/av_msgs"]
+	path = src/utilities/av_msgs
+	url = https://github.com/Chris7462/av_msgs.git
+[submodule "src/utilities/trajectory_server"]
+	path = src/utilities/trajectory_server
+	url = https://github.com/Chris7462/trajectory_server.git
+[submodule "src/libraries/hungarian_cpp"]
+	path = src/libraries/hungarian_cpp
+	url = https://github.com/Chris7462/hungarian_cpp.git
+[submodule "src/libraries/kalman_filter"]
+	path = src/libraries/kalman_filter
+	url = https://github.com/Chris7462/kalman_filter.git
